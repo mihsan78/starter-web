@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 
 ## Intraduction
 
-## How to contribute
+# How to contribute
+
+## Deployment
