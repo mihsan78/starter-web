@@ -2,12 +2,12 @@
 
 This repository is for showing how Git and GitHub work
 
+## Intraduction
+
 ## Purpose
 
 Sample website with plenty of files for demos
 
-## Intraduction
-
-# How to contribute
+## How to contribute
 
 ## Deployment
