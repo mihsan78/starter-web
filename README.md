@@ -15,3 +15,7 @@ Sample website with plenty of files for demos and provide simple examples for Gi
 This is a simple web project, deployment can be on any web server or even local file system.
 
 ## How to contribute
+
+### Copyright
+
+2025 Git.Training.
